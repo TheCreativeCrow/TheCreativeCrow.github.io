@@ -1,0 +1,19 @@
+# Local AI/agent configuration and memory
+.agents/
+.codex/
+.claude/
+.cursor/
+.aider*
+.continue/
+.windsurf/
+.github/copilot-instructions.md
+
+# Per-machine editor preferences
+.vscode/settings.json
+
+# Agent instruction files should remain local to this repository
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+COPILOT.md
+

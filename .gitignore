@@ -17,3 +17,7 @@ CLAUDE.md
 GEMINI.md
 COPILOT.md
 
+# Mac file handling
+.DS_Store
+
+
